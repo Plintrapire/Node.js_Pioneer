@@ -1,0 +1,94 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+#Higher_and_Higher_and_Higher {}
+
+#Images-Section {
+	height: 150px;
+	width: 150px;
+	border-radius: 10px;
+}
+
+.Badge {
+	height: 150px;
+	width: 150px;
+}
+
+.Main-1 {
+	height: 150px;
+	width: 150px;
+	/*border: 1px solid black;*/ 
+}
+
+.Main-2 {
+	height: 150px;
+	width: 150px;
+	/*border: 1px solid black; */
+}
+
+.Main-3 {
+	height: 50px;
+	width: 100px;
+	/*border: 1px solid black;  */
+}
+
+.Pioneer-Block-1 {
+	height: 150px; 
+	width: 150px;
+	border: 1px solid red;
+	border-radius: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+}
+
+.Pioneer-Block-2 {
+	height: 150px; 
+	width: 150px;
+	border: 1px solid red;
+	border-radius: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+}
+
+.Pioneer-Block-3 {
+	height: 150px; 
+	width: 150px;
+	border: 1px solid red;
+	border-radius: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+}
+
+.Pioneer-Block-4 {
+	height: 150px; 
+	width: 150px;
+	border: 1px solid red;
+	border-radius: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+}
+
+.Pioneer-Block-5 {
+	height: 150px; 
+	width: 150px;
+	border: 1px solid red;
+	border-radius: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+}
+
+.End {
+	height: 150px;
+	width: 1150px;
+	border: 1px solid red;
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left; 
+}
